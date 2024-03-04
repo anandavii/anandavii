@@ -9,5 +9,4 @@ Actively seeking internship opportunities, I am eager to apply my academic excel
 💞️ I'm looking to collaborate on projects, contributing my skills to create tech solutions that push boundaries and inspire.
 💬 Ask me about - Project Management, Software Testing, Spark
 📫 Reach me via [email](mailto:aanand25@hawk.iit.edu) | [Linkedin](https://linkedin.com/anandavii)
-😄 Pronouns: He/Him
-⚡ Fun fact: Beyond the tech world, I'm a passionate cook, and I love experimenting with flavors and creating delicious dishes in the kitchen. 🧩
+⚡ Fun fact: Beyond the tech world, I'm a passionate cook, and I love experimenting with flavors and creating delicious dishes in the kitchen 🧩.
