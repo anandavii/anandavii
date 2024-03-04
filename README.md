@@ -2,7 +2,7 @@ Hi, I’m Abhishek
 
 I am currently a 🎓 Master's student pursuing degree in Information Technology and Management. With a solid foundation of 5 years as a QA Automation Tester 💻,
 I specialize in business requirements analysis, test planning, and execution, leveraging tools like Selenium, Jira, and Git 🛠️. My focus is on optimizing testing processes for elevated software quality and performance 🚀. 
-Actively seeking internship opportunities, I am eager to apply my academic excellence and practical expertise to contribute to innovative projects and further my growth in the dynamic IT landscape 🤝.
+I am eager to apply my academic excellence and practical expertise to contribute to innovative projects and further my growth in the dynamic IT landscape 🤝, looking forward to internship/co-op opportunities.
 
 * 👀 I’m interested in exploring innovative tech solutions
 * 🌱 Currently learning new methodologies & frameworks for IT Service Management, PySpark to perform real-time, large-scale data processing in a distributed environment using Python.
