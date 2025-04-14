@@ -1,7 +1,6 @@
 ### Hi, I'm Abhishek 👋
 
-I'm a Master's student in Information Technology and Management at Illinois Institute of Technology, with 5+ years of professional experience as a QA Automation Engineer (SDET). I specialize in building scalable test automation frameworks for UI and API testing, integrating quality into CI/CD pipelines, and driving shift-left strategies in Agile teams.
-
+I specialize in building scalable test automation frameworks for UI and API testing, integrating quality into CI/CD pipelines, and driving shift-left strategies in Agile teams.
 My passion lies in creating robust, maintainable solutions that accelerate release cycles and improve software quality. I bring a blend of hands-on technical expertise and business-focused testing strategies to every project.
 
 ---
