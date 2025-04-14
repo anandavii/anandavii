@@ -11,9 +11,9 @@ My passion lies in creating robust, maintainable solutions that accelerate relea
 - Collaborating across teams to ship reliable, high-performing software  
 
 🧠 **Currently Learning:**  
-- PySpark for distributed data processing  
-- Advanced DevOps practices & performance testing techniques  
-- ITSM methodologies to align QA with service excellence  
+- AI-assisted testing for intelligent defect prediction and test case generation  
+- Autonomous test maintenance to reduce flakiness and improve stability  
+- Visual regression testing and self-healing frameworks  
 
 🤝 **Let's Connect:**  
 I'm open to internship/co-op opportunities and collaborations on QA, test automation, or platform reliability projects.
