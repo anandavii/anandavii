@@ -1,12 +1,25 @@
-Hi, I’m Abhishek
+### Hi, I'm Abhishek 👋
 
-I am currently a 🎓 Master's student pursuing degree in Information Technology and Management. With a solid foundation of 5 years as a QA Automation Tester 💻,
-I specialize in business requirements analysis, test planning, and execution, leveraging tools like Selenium, Jira, and Git 🛠️. My focus is on optimizing testing processes for elevated software quality and performance 🚀. 
-I am eager to apply my academic excellence and practical expertise to contribute to innovative projects and further my growth in the dynamic IT landscape 🤝, looking forward to internship/co-op opportunities.
+I'm a Master's student in Information Technology and Management at Illinois Institute of Technology, with 5+ years of professional experience as a QA Automation Engineer (SDET). I specialize in building scalable test automation frameworks for UI and API testing, integrating quality into CI/CD pipelines, and driving shift-left strategies in Agile teams.
 
-* 👀 I’m interested in exploring innovative tech solutions
-* 🌱 Currently learning new methodologies & frameworks for IT Service Management, PySpark to perform real-time, large-scale data processing in a distributed environment using Python.
-* 💞️ I'm looking to collaborate on projects, contributing my skills to create tech solutions that push boundaries and inspire.
-* 💬 Ask me about - Project Management, Software Testing, Spark
-* 📫 Reach me via [Email](mailto:aanand25@hawk.iit.edu) | [Linkedin](https://linkedin.com/in/anandavii) | [Portfolio](https://abhishekanand.live)
-* ⚡ Fun fact: Beyond the tech world, I'm a passionate cook, and I love experimenting with flavors and creating delicious dishes in the kitchen 🧩
+My passion lies in creating robust, maintainable solutions that accelerate release cycles and improve software quality. I bring a blend of hands-on technical expertise and business-focused testing strategies to every project.
+
+---
+
+💡 **What I'm into:**  
+- Designing automation frameworks and tools that scale  
+- Driving quality-first development with BDD/TDD approaches  
+- Collaborating across teams to ship reliable, high-performing software  
+
+🧠 **Currently Learning:**  
+- PySpark for distributed data processing  
+- Advanced DevOps practices & performance testing techniques  
+- ITSM methodologies to align QA with service excellence  
+
+🤝 **Let's Connect:**  
+I'm open to internship/co-op opportunities and collaborations on QA, test automation, or platform reliability projects.
+
+📬 **Reach me at:**  
+[Email](mailto:abhishek.1anand@outlook.com) | [LinkedIn](https://linkedin.com/in/anandavii) | [Portfolio](https://abhishekanand.live)  
+
+⚡ **Fun fact:** Outside of tech, I love experimenting in the kitchen and exploring new cuisines—just like debugging code, only tastier!
