@@ -18,6 +18,6 @@ My passion lies in creating robust, maintainable solutions that accelerate relea
 🤝 **Let's Connect:**  
 I'm always excited to connect with fellow engineers, QA professionals, and tech enthusiasts to discuss automation, quality engineering, and emerging trends in software testing. Whether it's sharing insights, exploring collaborations, or just talking shop-feel free to reach out!
 
-📬 **Reach me at:**  [Email](mailto:abhishek.1anand@outlook.com) | [LinkedIn](https://linkedin.com/in/anandavii) | [Portfolio](https://abhishekanand.live)  
+📬 **Reach me at:**  [Email](mailto:abhishek.1anand@outlook.com) | [LinkedIn](https://linkedin.com/in/anandavii) | [Portfolio](https://abhishekanand.tech)  
 
 ⚡ **Fun fact:** Outside of tech, I love experimenting in the kitchen and exploring new cuisines, just like debugging code, only tastier!
